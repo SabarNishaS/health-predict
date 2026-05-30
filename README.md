@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# 🫀 HealthPredict — AI-Powered Patient Health Analytics
+# 🫀 HealthPredict —- AI-Powered Patient Health Analytics
 
 A full-stack health prediction application that collects patient blood test data and uses **AI (Anthropic Claude)** to generate personalised health assessments.
 
